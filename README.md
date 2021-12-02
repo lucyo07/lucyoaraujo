@@ -13,5 +13,5 @@
   <img align="center" alt="L-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div></br>
 <div style="display: inline_block">
-  <img src="">
+  <img width="100%" height="250px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/ezgif.com-gif-maker.gif">
 </div>
