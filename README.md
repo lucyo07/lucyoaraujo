@@ -1,3 +1,4 @@
+##
 <div align="center">
   <a href="https://github.com/lucyoaraujo">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucyoaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,4 +11,7 @@
   <img align="center" alt="L-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img align="center" alt="L-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="L-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+</div></br>
+<div style="display: inline_block">
+  <img src="">
 </div>
