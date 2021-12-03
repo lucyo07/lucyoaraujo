@@ -9,6 +9,8 @@
 <div style="display: inline_block">
   <img width="100%" height="200px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/ezgif.com-gif-maker.gif">
 </div>
+
+## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="L-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="L-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
