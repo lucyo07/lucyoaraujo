@@ -7,7 +7,7 @@
   
 ## Olá, sou Luciano Araújo! Amante da ciência e tecnologia.</br>
 <div style="display: inline_block">
-  <img width="100%" height="200px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/ezgif.com-gif-maker.gif">
+  <img width="100%" height="200px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/CTI.gif">
 </div>
 
 ## Skills
