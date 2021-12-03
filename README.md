@@ -21,6 +21,9 @@
 </div></br>
 <div>
   <h3>Sobre mim</h3>
-  <p>...</p>
+  <p>~👨‍💻Desenvolvedor front-end em andamento.</br>
+    ~💪Desenvolvedor Wordpress.</br>
+    ~💻Pentest</p>
+  <p>🤓Interesse: JavaScript, HTML, CSS, Bootstrap, Python, Shell Script, Mysql</p>
   <img align="right" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/200w.gif">
 </div>
