@@ -17,3 +17,7 @@
   <img align="center" alt="L-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="L-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div></br>
+<div>
+  <h3>Sobre mim</h3>
+  
+</div>
