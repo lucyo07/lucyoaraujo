@@ -24,6 +24,6 @@
   <p>~👨‍💻Desenvolvedor front-end em andamento.</br>
     ~💪Desenvolvedor Wordpress.</br>
     ~💻Pentest.</p>
-  <p>🤓Interesse: JavaScript, HTML, CSS, Bootstrap, Python, Shell Script, Mysql, Ruby, Java</p>
+    -🤓Interesse: JavaScript, HTML, CSS, Bootstrap, Python, Shell Script, Mysql, Ruby, Java.
   <img align="right" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/200w.gif">
 </div>
