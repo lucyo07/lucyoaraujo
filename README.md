@@ -4,6 +4,11 @@
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucyoaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyoaraujo&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+## Olá, sou Luciano Araújo! Amante da ciência e tecnologia.</br>
+<div style="display: inline_block">
+  <img width="100%" height="200px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/ezgif.com-gif-maker.gif">
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="L-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="L-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,8 +17,3 @@
   <img align="center" alt="L-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="L-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div></br>
-
-## Olá, sou Luciano Araújo! Amante da ciência e tecnologia.</br>
-<div style="display: inline_block">
-  <img width="100%" height="200px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/ezgif.com-gif-maker.gif">
-</div>
