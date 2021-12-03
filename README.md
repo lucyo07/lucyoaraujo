@@ -21,5 +21,6 @@
 </div></br>
 <div>
   <h3>Sobre mim</h3>
-  <img src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/200w.gif">
+  <p>...</p>
+  <img align="right" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/200w.gif">
 </div>
