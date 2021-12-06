@@ -10,7 +10,7 @@
   <img width="100%" height="200px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/CTI.gif">
 </div>
 
-## Skills
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="L-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="L-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,5 +21,5 @@
 <div>
   <h3>Sobre mim</h3>
   <img align="right" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/200w.gif">
-  <p>~💻Pentest.</p>
+  <p>~👨‍💻Pentest.</p>
 </div>
