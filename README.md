@@ -1,13 +1,12 @@
-##
+## Hi, I'm Luciano Araújo!</br>
+<div style="display: inline_block">
+  <img width="100%" height="200px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/CTI.gif">
+</div>
+
 <div align="center"> 
   <a href="https://github.com/lucyoaraujo">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucyoaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyoaraujo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-## Olá, sou Luciano Araújo! Amante da ciência e tecnologia.</br>
-<div style="display: inline_block">
-  <img width="100%" height="200px" src="https://github.com/lucyoaraujo/lucyoaraujo/blob/main/CTI.gif">
 </div>
 
 ##
